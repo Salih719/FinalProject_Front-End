@@ -6,9 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Projenin bazı fotoğrafları
 
-[Home](https://github.com/Salih719/FinalProject_Front-End/blob/master/src/assets/img/home.png)
-[Product-add](https://github.com/Salih719/FinalProject_Front-End/blob/master/src/assets/img/products-add.png)
-[login](https://github.com/Salih719/FinalProject_Front-End/blob/master/src/assets/img/login.png)
-[register](https://github.com/Salih719/FinalProject_Front-End/blob/master/src/assets/img/register.png)
-
-
+<img src="https://github.com/Salih719/FinalProject_Front-End/blob/master/src/assets/img/home.png">
+<img src="https://github.com/Salih719/FinalProject_Front-End/blob/master/src/assets/img/products-add.png">
+<img src="https://github.com/Salih719/FinalProject_Front-End/blob/master/src/assets/img/login.png">
+<img src="https://github.com/Salih719/FinalProject_Front-End/blob/master/src/assets/img/register.png">
